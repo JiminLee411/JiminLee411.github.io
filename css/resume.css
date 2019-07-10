@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: rgb(131, 143, 250);
+  background-color: rgb(60, 190, 241);
 }
 
 .dev-icons {
@@ -184,7 +184,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #BD5D38;
+  color: rgb(53, 176, 247);
 }
 
 a:hover, a:focus, a:active {
